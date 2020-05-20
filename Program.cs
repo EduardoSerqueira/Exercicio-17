@@ -31,6 +31,15 @@ namespace Exercicio_17
                 }
                 w++;
             }
+
+            //Exemplo 
+            //Entrada
+            //8
+            //Saída
+            //1
+            //3
+            //5
+            //7
         }
     }
 }
